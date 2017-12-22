@@ -1,0 +1,114 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	background: #ecf0f1;
+}
+.intern_topHeader{
+    background: linear-gradient(to left, blue, lightblue);
+    height: 9vh;
+}
+.intern_pause_button{
+	margin-top: 10px;
+	margin-left: 20px;
+	border-radius: 20px;
+	background: transparent;
+	background: no-repeat;
+	border:1px solid white;
+	color: white;
+}
+.intern_main_timer{
+	font-size: 20px; 
+	margin-left: 20px;
+	margin-top: 1vh;
+	color: white;
+	margin-bottom: 0;
+}
+.intern_text1{
+	margin-top: 0;
+	color: white;
+	margin-left: 20px;
+}
+.intern_corner_title{
+	color: white;
+	text-align: right;
+	margin-top: 1.5vh;
+	padding-right: 3%;
+}
+.intern_blank{
+	height: 1vh;
+}
+.intern_container{
+	margin-top: 3vh;
+	padding-top: 1vh;
+	background: white;
+	border-radius: 10px;
+	width: 83.5%;
+}
+
+.intern_question{
+	padding-bottom: 0;
+}
+
+.intern_badge_qno{
+	width: 15%;
+	height: 3.1vh;
+}
+.intern_timer_badge{
+	background: white;
+	border:1px solid grey;
+	color:black;
+	padding: 6px;
+	width: 6%;
+	height: 4vh;
+}
+.intern_label_pos_mark{
+	background: green;
+}
+
+.intern_label_neg_mark{
+	background: red;
+}
+.intern_container_two{
+	padding-top: 1vh;
+	border-radius: 10px;
+	width: 100%;
+}
+
+.intern_option_button{
+	margin-top: 1vh;
+	width: 100%;
+	text-align: left;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	border-radius: 10px;
+}
+
+..intern_option_button:hover{
+	border-radius: 10px;
+	border:1px solid blue;
+}
+.intern_option_button:active{
+	border-radius: 10px;
+	border:1px solid blue;
+}
+
+.intern_option_button:focus{
+	border-radius: 10px;
+	border:1px solid blue;
+}
+
+.intern_option_button:disabled{
+	border-radius: 10px;
+	border:1px solid blue;
+}
+.intern_badge2{
+	background: transparent;
+	background: no-repeat;
+	border:1px solid grey; 
+}
+.intern_timer{
+	text-align: center;
+	vertical-align: middle;
+}
